@@ -4687,6 +4687,7 @@ input, select, textarea {
 		}
 
 	}
+
 /* Fix the empty frame issue for an odd number of projects */
 #main > .posts > article:last-child:nth-child(odd) {
     width: 100% !important;
